@@ -61,7 +61,57 @@
       "image": "images/small/small_6.jpeg",
       "images": [
         "images/small/small_6.jpeg",
-        "images/small/small_6_1.jpeg"
+        "images/small/small_6_1.jpeg",
+        "images/small/small_6_2.jpeg",
+        "images/small/small_6_3.jpeg"
+      ],
+      "label": "Set of 4 (4 inch circle)"
+    },
+    {
+      "id": "product-4inch-circle-7",
+      "sizeCategory": "S",
+      "price": "₹400",
+      "designType": "Circle",
+      "dimensions": "4 inch × 4 inch",
+      "image": "images/small/small_7.jpeg",
+      "images": [
+        "images/small/small_7.jpeg"
+      ],
+      "label": "Set of 4 (4 inch circle)"
+    },
+    {
+      "id": "product-4inch-circle-8",
+      "sizeCategory": "S",
+      "price": "₹400",
+      "designType": "Circle",
+      "dimensions": "4 inch × 4 inch",
+      "image": "images/small/small_8.jpeg",
+      "images": [
+        "images/small/small_8.jpeg"
+      ],
+      "label": "Set of 4 (4 inch circle)"
+    },
+    {
+      "id": "product-4inch-circle-9",
+      "sizeCategory": "S",
+      "price": "₹400",
+      "designType": "Circle",
+      "dimensions": "4 inch × 4 inch",
+      "image": "images/small/small_9.jpeg",
+      "images": [
+        "images/small/small_9.jpeg"
+      ],
+      "label": "Set of 4 (4 inch circle)"
+    },
+    {
+      "id": "product-4inch-circle-10",
+      "sizeCategory": "S",
+      "price": "₹400",
+      "designType": "Circle",
+      "dimensions": "4 inch × 4 inch",
+      "image": "images/small/small_10.jpeg",
+      "images": [
+        "images/small/small_10.jpeg"
       ],
       "label": "Set of 4 (4 inch circle)"
     },
