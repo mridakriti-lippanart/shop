@@ -60,8 +60,6 @@
       "dimensions": "4 inch × 4 inch",
       "image": "images/small/small_6.jpeg",
       "images": [
-        "images/small/small_6.jpeg",
-        "images/small/small_6_1.jpeg",
         "images/small/small_6_2.jpeg",
         "images/small/small_6_3.jpeg"
       ],
@@ -70,50 +68,41 @@
     {
       "id": "product-4inch-circle-7",
       "sizeCategory": "S",
-      "price": "₹400",
+      "price": "500",
       "designType": "Circle",
       "dimensions": "4 inch × 4 inch",
       "image": "images/small/small_7.jpeg",
       "images": [
-        "images/small/small_7.jpeg"
+        "images/small/small_7.jpeg",
+        "images/small/small_7_1.jpeg"
       ],
       "label": "Set of 4 (4 inch circle)"
     },
     {
-      "id": "product-4inch-circle-8",
+      "id": "product-3inch-circle-8",
       "sizeCategory": "S",
-      "price": "₹400",
+      "price": "₹360",
       "designType": "Circle",
-      "dimensions": "4 inch × 4 inch",
+      "dimensions": "3 inch × 3 inch",
       "image": "images/small/small_8.jpeg",
       "images": [
-        "images/small/small_8.jpeg"
+        "images/small/small_8.jpeg",
+        "images/small/small_8_1.jpeg"
       ],
-      "label": "Set of 4 (4 inch circle)"
+      "label": "Set of 4 (3 inch circle)"
     },
     {
-      "id": "product-4inch-circle-9",
+      "id": "product-4inch-square-9",
       "sizeCategory": "S",
       "price": "₹400",
-      "designType": "Circle",
+      "designType": "Square",
       "dimensions": "4 inch × 4 inch",
       "image": "images/small/small_9.jpeg",
       "images": [
-        "images/small/small_9.jpeg"
+        "images/small/small_9.jpeg",
+        "images/small/small_9_1.jpeg"
       ],
-      "label": "Set of 4 (4 inch circle)"
-    },
-    {
-      "id": "product-4inch-circle-10",
-      "sizeCategory": "S",
-      "price": "₹400",
-      "designType": "Circle",
-      "dimensions": "4 inch × 4 inch",
-      "image": "images/small/small_10.jpeg",
-      "images": [
-        "images/small/small_10.jpeg"
-      ],
-      "label": "Set of 4 (4 inch circle)"
+      "label": "Set of 4 (4 inch square)"
     },
     {
       "id": "product-12inch-circle-1",
